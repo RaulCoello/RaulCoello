@@ -3,10 +3,11 @@
  <div align="center">
   <img src="https://i.imgur.com/cQ5TgEV.jpeg" />
 </div>
-/-->
 <div align="center">
   <h3>Extintor Team</h3>
 </div>
+/-->
+
 
 
 
@@ -16,7 +17,7 @@
 ## Languages and Tools:
 
 <div >
-  <div align="left">
+  <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="android studio" alt="android studio" width="40" height="40"/>
@@ -44,14 +45,14 @@
 ## Certifications:
 
 <div >
-  <div align="left">
-    <img src="https://i.imgur.com/PaH4BCi.png" title="Microsoft Fundamentals" alt="Microsoft Fundamentals" width="80" height="80"/>
-    <img src="https://i.imgur.com/uljoa3B.png" title="Discovering Entrepreneurship" alt="Discovering Entrepreneurship" width="80" height="80"/>
-    <img src="https://i.imgur.com/56ACDKg.png" title="Introduction to Data Sciencie" alt="Introduction to Data Sciencie" width="80" height="80"/>
-    <img src="https://i.imgur.com/7KEBsZq.png" title="English for IT" alt="English for IT" width="80" height="80"/>
-    <img src="https://i.imgur.com/orde7sA.png" title="Ethical Hacker" alt="Ethical Hacker" width="80" height="80"/> 
-    <img src="https://i.imgur.com/pcg2RGt.png" title="Introduction to Cybersecurity" alt="Introduction to Cybersecurity" width="80" height="80"/> 
-    <img src="https://i.imgur.com/XiG0w9w.png" title="IT Customer Support Basics" alt="IT Customer Support Basics" width="80" height="80"/> 
+  <div align="center">
+    <img src="https://i.imgur.com/PaH4BCi.png" title="Microsoft Fundamentals" alt="Microsoft Fundamentals" width="100" height="100"/>
+    <img src="https://i.imgur.com/uljoa3B.png" title="Discovering Entrepreneurship" alt="Discovering Entrepreneurship" width="100" height="100"/>
+    <img src="https://i.imgur.com/56ACDKg.png" title="Introduction to Data Sciencie" alt="Introduction to Data Sciencie" width="100" height="100"/>
+    <img src="https://i.imgur.com/7KEBsZq.png" title="English for IT" alt="English for IT" width="100" height="100"/>
+    <img src="https://i.imgur.com/orde7sA.png" title="Ethical Hacker" alt="Ethical Hacker" width="100" height="100"/> 
+    <img src="https://i.imgur.com/pcg2RGt.png" title="Introduction to Cybersecurity" alt="Introduction to Cybersecurity" width="100" height="100"/> 
+    <img src="https://i.imgur.com/XiG0w9w.png" title="IT Customer Support Basics" alt="IT Customer Support Basics" width="100" height="100"/> 
   </div>
 </div>
 
